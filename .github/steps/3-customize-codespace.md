@@ -8,7 +8,7 @@
 
 _Nice work! :tada: You created a codespace with a custom image!_
 
-You can customize your codespace by adding VS code extensions, adding features, setting host requirements, and much more.
+You can customize your  helloworld codespace by adding VS code extensions, adding features, setting host requirements, and much more.
 
 Let's customize some settings in the `devcontainer.json` file!
 
